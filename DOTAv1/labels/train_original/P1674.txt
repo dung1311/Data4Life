@@ -1,0 +1,3 @@
+imagesource:JL
+gsd:0.72
+510 1184 536 1184 536 1209 510 1209 storage-tank 0

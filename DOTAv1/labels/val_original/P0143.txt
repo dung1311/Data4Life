@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:1.11159646899
+553 86 565 78 571 90 559 96 swimming-pool 1
+370 312 424 310 427 409 373 411 soccer-ball-field 1
+358 282 439 278 443 441 364 444 ground-track-field 1

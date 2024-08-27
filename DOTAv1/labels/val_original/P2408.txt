@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.946823695435
+1197 1864 1266 1841 1307 1949 1234 1976 soccer-ball-field 0
+1177 1835 1270 1808 1333 1987 1230 2018 ground-track-field 0

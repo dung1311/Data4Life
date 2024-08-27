@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.989744270463
+112 1043 160 1043 160 1086 112 1086 roundabout 0
+601 793 643 793 643 837 601 837 roundabout 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.990346217482
+1604 630 1645 630 1645 668 1604 668 roundabout 0

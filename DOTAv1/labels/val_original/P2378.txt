@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.563505465863
+440 805 589 843 564 937 412 897 ground-track-field 0

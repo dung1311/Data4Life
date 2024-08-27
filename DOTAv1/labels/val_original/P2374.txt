@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.528829752173
+276 745 494 795 457 944 237 888 soccer-ball-field 0
+284 728 498 779 488 800 276 745 ground-track-field 0
+500 144 677 198 674 212 500 156 bridge 0

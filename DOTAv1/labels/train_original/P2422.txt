@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.462251200658
+1458 603 1555 603 1555 702 1458 702 roundabout 0

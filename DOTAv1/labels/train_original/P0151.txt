@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.268982799509
+453 489 539 486 540 526 454 527 tennis-court 0
+448 434 539 434 539 475 450 476 tennis-court 0
+448 385 536 382 536 422 449 426 tennis-court 0

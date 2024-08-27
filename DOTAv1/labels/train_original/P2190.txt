@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:1.14077497266
+536 344 540 342 547 360 542 362 large-vehicle 0
+668 833 664 835 658 818 663 816 large-vehicle 0
+608 581 614 579 620 598 615 600 large-vehicle 0

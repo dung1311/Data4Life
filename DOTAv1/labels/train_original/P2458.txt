@@ -1,0 +1,6 @@
+imagesource:GoogleEarth
+gsd:0.987945957495
+580 563 599 576 573 613 555 600 tennis-court 1
+421 509 437 497 464 533 447 546 tennis-court 1
+557 424 627 475 532 604 463 560 ground-track-field 0
+505 338 579 386 480 517 412 470 ground-track-field 0

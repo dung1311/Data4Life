@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.537965878878
+292 300 571 313 575 510 287 503 ground-track-field 0
+334 339 534 344 534 435 329 430 soccer-ball-field 1
+527 492 447 490 444 404 541 410 baseball-diamond 0

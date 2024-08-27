@@ -1,0 +1,6 @@
+imagesource:GoogleEarth
+gsd:0.12729721537
+542 228 665 231 661 434 538 431 basketball-court 0
+397 227 519 228 514 431 391 427 basketball-court 0
+260 230 347 231 343 419 253 417 tennis-court 0
+143 227 233 229 229 415 138 413 tennis-court 0

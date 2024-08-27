@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.961454038287
+243 2094 352 2062 372 2132 260 2164 soccer-ball-field 1

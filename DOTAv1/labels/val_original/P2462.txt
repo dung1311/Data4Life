@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.965625106134
+676 1556 765 1531 797 1643 710 1673 soccer-ball-field 1

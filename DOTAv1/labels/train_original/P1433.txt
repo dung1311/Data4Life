@@ -1,0 +1,8 @@
+imagesource:GoogleEarth
+gsd:0.278292727555
+359 339 496 219 666 402 526 524 soccer-ball-field 0
+425 627 494 568 525 602 455 664 basketball-court 0
+388 582 457 527 487 560 416 620 basketball-court 0
+290 475 360 414 393 451 322 510 basketball-court 0
+249 430 318 368 355 406 282 465 basketball-court 0
+245 271 447 107 778 460 575 642 ground-track-field 0

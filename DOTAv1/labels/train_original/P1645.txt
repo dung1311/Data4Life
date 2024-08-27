@@ -1,0 +1,4 @@
+imagesource:JL
+gsd:0.72
+1078 1664 1090 1705 1052 1715 1039 1673 baseball-diamond 0
+959 1817 944 1752 1001 1737 1017 1799 baseball-diamond 0

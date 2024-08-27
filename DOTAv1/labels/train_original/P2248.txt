@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.289230635447
+501 452 542 453 542 536 500 535 tennis-court 0
+426 451 465 452 466 535 426 534 tennis-court 0
+177 272 254 272 254 342 177 342 swimming-pool 0

@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:1.10410643302
+572 751 581 751 581 765 572 765 swimming-pool 1
+229 405 243 405 243 413 229 413 swimming-pool 1
+146 49 160 49 160 65 146 65 swimming-pool 0

@@ -1,0 +1,7 @@
+imagesource:GoogleEarth
+gsd:0.13122060261
+436 171 465 3 622 2 623 209 baseball-diamond 1
+181 479 353 423 379 507 205 561 tennis-court 0
+144 358 317 305 343 386 170 441 tennis-court 0
+108 238 279 184 306 268 133 320 tennis-court 0
+69 120 243 64 270 147 96 201 tennis-court 0

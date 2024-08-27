@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.568694214945
+74 263 377 510 333 566 25 312 bridge 0
+1604 880 1673 887 1649 1058 1578 1046 ground-track-field 0

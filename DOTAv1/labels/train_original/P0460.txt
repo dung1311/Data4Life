@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.137674085089
+324 769 397 731 478 889 404 927 tennis-court 0
+207 536 282 497 360 653 287 692 tennis-court 0
+87 299 161 259 242 416 166 454 tennis-court 0

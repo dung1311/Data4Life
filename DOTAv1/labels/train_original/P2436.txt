@@ -1,0 +1,6 @@
+imagesource:GoogleEarth
+gsd:0.976894218051
+521 23 558 60 546 73 509 37 swimming-pool 0
+493 49 506 39 525 59 513 70 swimming-pool 0
+461 31 497 0 512 16 480 47 swimming-pool 0
+1172 1577 1210 1577 1210 1620 1172 1620 roundabout 0

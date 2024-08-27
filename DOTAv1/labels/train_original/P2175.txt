@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.562225217629
+163 419 156 418 157 379 163 379 large-vehicle 0
+204 405 211 405 211 430 203 430 large-vehicle 0

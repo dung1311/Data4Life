@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.463628951323
+799 742 863 742 863 806 799 806 roundabout 0
+428 480 485 480 485 533 428 533 roundabout 0

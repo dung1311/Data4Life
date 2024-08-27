@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.510133214164
+485 1470 554 1470 554 1537 485 1537 roundabout 0
+594 1550 752 1539 782 1872 611 1895 ground-track-field 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.933268810316
+305 514 349 514 349 556 305 556 roundabout 0

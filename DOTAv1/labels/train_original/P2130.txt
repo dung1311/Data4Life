@@ -1,0 +1,7 @@
+imagesource:GoogleEarth
+gsd:0.258216345069
+205 627 306 507 427 603 332 729 baseball-diamond 0
+504 211 591 285 516 380 425 305 baseball-diamond 0
+861 476 801 556 725 496 787 418 baseball-diamond 0
+668 737 583 669 654 584 739 652 baseball-diamond 0
+545 897 463 833 532 750 615 815 baseball-diamond 0

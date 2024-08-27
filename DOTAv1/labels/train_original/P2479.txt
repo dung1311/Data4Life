@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.495729929785
+248 1630 330 1614 348 1668 260 1689 basketball-court 0
+792 1163 869 1163 869 1229 792 1229 roundabout 0

@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.935181460801
+1646 1377 1733 1422 1650 1588 1563 1549 ground-track-field 0
+1680 1182 1769 1204 1736 1381 1640 1364 ground-track-field 0

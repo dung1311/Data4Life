@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.127598278045
+525 44 543 46 539 81 522 80 small-vehicle 0
+747 566 746 585 710 584 710 567 small-vehicle 0
+241 310 629 310 629 713 241 713 roundabout 0

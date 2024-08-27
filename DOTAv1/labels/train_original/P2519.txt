@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.963428719647
+657 493 709 469 748 562 693 580 soccer-ball-field 1
+639 467 710 441 764 583 702 614 ground-track-field 0

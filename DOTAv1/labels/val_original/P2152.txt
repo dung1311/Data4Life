@@ -1,0 +1,2 @@
+imagesource:GoogleEarth
+gsd:0.24958843112

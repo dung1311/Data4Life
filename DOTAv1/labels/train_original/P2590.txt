@@ -1,0 +1,7 @@
+imagesource:GoogleEarth
+gsd:0.225610675166
+568 946 629 961 603 1061 542 1048 basketball-court 0
+482 924 540 938 517 1035 456 1021 basketball-court 0
+932 232 1238 315 1116 785 806 704 soccer-ball-field 0
+429 88 839 184 617 947 233 857 ground-track-field 0
+438 252 729 327 615 789 317 709 soccer-ball-field 0

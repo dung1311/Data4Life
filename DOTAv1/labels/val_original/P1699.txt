@@ -1,0 +1,3 @@
+imagesource:JL
+gsd:0.72
+482 812 515 812 515 845 482 845 roundabout 0

@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.562686798121
+275 30 281 28 288 57 283 58 large-vehicle 0

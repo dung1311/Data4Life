@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.996675073391
+1942 2390 2028 2390 2028 2560 1942 2560 ground-track-field 0
