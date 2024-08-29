@@ -3,7 +3,7 @@ import time
 import cv2
 import torch
 
-model = YOLO('../betst2.pt')
+model = YOLO('../best.pt')
 
 def result(file_path):
     res = model(file_path)

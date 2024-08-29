@@ -13,7 +13,7 @@ def getPath():
         #print('chua lay duoc file_path')
         pass
     else:
-        #print('da lay duoc file_path' + str(file_path))
+        #print('da lay duoc file_path' + str(file_+path))
         count.result(file_path)
 
 def video():
