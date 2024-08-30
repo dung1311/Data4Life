@@ -16,17 +16,14 @@ def getPath():
         #print('da lay duoc file_path' + str(file_path))
         count.result(file_path)
 
-def video():
-    cap = cv2.VideoCapture(0)
-    while(True):
-        ret, frame = cap.read()
-        cv2.flip(frame, -1)
-        cv2.imshow('video', frame)
-        if cv2.waitKey(1) & 0xff == ord('q'):
-            break
-    
-    cap.release()
-    cv2.destroyAllWindows()
+def show_boxes():
+    file_path = filedialog.askopenfilename(title="Chọn một hình ảnh", filetypes=[("Image files", "*.png;*.jpg;*.jpeg;*.gif")])
+    if file_path == '':
+        #print('chua lay duoc file_path')
+        pass
+    else:
+        #print('da lay duoc file_path' + str(file_path))
+        count.result_without_label(file_path)
 
 
 def main():
@@ -39,7 +36,10 @@ def main():
     label = Label(root, image = img)
     label.pack()
     btn1 = Button(root, text= "Image", background = '#34e8eb', foreground= 'black', command=getPath, width=10, height=4)
-    btn1.place(x = 110, y = 10)
+    btn1.place(x = 10, y = 10)
+    btn2 = Button(root, text='Boxes', bg= '#34e8eb', fg= 'black', command=show_boxes, width=10, height=4)
+    btn2.place(x = 200, y = 10)
+    
     
     root.mainloop()
 
