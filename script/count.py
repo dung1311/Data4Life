@@ -10,7 +10,10 @@ def result(file_path):
     res = model.predict(
         source=file_path,
         imgsz = 640,
-        conf = 0.3
+        conf = 0.3,
+        show_labels = False,
+        classes = [9, 10],
+        agnostic_nms = True
     )
 
     nums_vehicels = res[0]
