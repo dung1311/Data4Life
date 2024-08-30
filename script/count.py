@@ -39,7 +39,8 @@ def result_without_label(file_path):
         imgsz = 640,
         conf = 0.3,
         show_labels = False,
-        classes = [9, 10]
+        classes = [9, 10],
+        agnostic_nms = True
     )
     nums_vehicels = res[0]
     counter = 0
