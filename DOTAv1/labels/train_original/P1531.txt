@@ -1,0 +1,2 @@
+imagesource:JL
+gsd:0.72

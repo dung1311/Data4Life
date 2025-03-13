@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:1.0080255018
+943 898 979 898 979 937 943 937 roundabout 0
+176 360 246 386 204 485 138 458 soccer-ball-field 0
+303 405 396 405 398 584 301 584 ground-track-field 0

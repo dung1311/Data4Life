@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.128715375086
+441 898 456 904 446 931 432 926 small-vehicle 0
+516 789 529 801 503 825 492 814 small-vehicle 0
+246 255 837 255 837 823 246 823 roundabout 0

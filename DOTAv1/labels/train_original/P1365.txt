@@ -1,0 +1,3 @@
+imagesource:GF
+gsd:1
+1904 536 2033 494 2047 538 1916 576 bridge 0

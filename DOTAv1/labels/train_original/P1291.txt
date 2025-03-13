@@ -1,0 +1,3 @@
+imagesource:GF
+gsd:1
+215 259 227 256 232 280 218 281 ship 0

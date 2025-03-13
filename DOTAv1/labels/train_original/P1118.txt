@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:null
+1532 89 1569 100 1540 161 1503 149 small-vehicle 0
+1831 211 1600 238 1571 105 1797 74 plane 0
+472 293 306 320 287 224 451 203 plane 0

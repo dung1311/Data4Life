@@ -1,0 +1,6 @@
+imagesource:GoogleEarth
+gsd:0.266136831788
+480 474 526 379 620 425 575 519 baseball-diamond 0
+430 573 521 608 488 699 396 665 baseball-diamond 0
+291 500 233 646 89 592 144 446 baseball-diamond 0
+283 340 179 324 194 219 296 232 baseball-diamond 0

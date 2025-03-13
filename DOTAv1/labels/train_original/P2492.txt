@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.992197644381
+820 2130 853 2135 836 2328 800 2324 bridge 0

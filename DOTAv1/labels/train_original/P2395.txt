@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.561707064912
+1841 1506 1913 1578 1806 1724 1723 1646 ground-track-field 0

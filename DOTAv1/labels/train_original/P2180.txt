@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.57517310897
+352 787 361 787 361 802 352 802 swimming-pool 0
+299 393 301 387 335 413 332 419 large-vehicle 0

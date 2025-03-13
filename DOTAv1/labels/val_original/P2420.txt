@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.957792126381
+222 677 259 677 259 721 222 721 roundabout 0

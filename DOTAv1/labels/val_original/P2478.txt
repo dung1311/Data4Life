@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.929489372709
+1643 629 1695 629 1695 678 1643 678 roundabout 0

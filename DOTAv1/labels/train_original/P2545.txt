@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.916350340884
+403 1570 448 1570 448 1611 403 1611 roundabout 0

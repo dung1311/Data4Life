@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.99128706615
+1047 42 1079 14 1101 39 1070 66 swimming-pool 0
+967 961 1040 933 1044 947 971 976 bridge 0

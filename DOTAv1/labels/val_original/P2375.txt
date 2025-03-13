@@ -1,0 +1,6 @@
+imagesource:GoogleEarth
+gsd:0.55152882474
+749 871 827 867 829 941 752 941 roundabout 0
+840 360 886 348 897 384 852 396 tennis-court 0
+778 524 875 489 934 632 831 669 soccer-ball-field 0
+762 512 882 472 947 640 825 680 ground-track-field 0

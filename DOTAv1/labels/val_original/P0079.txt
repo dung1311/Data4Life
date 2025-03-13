@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.125623720528
+605 498 653 477 663 503 617 524 swimming-pool 0
+205 224 510 224 510 537 205 537 roundabout 0

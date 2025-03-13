@@ -1,0 +1,3 @@
+imagesource:JL
+gsd:0.72
+300 3178 372 3178 372 3258 300 3258 roundabout 0

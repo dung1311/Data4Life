@@ -1,0 +1,7 @@
+imagesource:GoogleEarth
+gsd:0.121415873507
+862 128 994 143 969 358 835 342 basketball-court 0
+650 105 780 120 754 336 622 321 basketball-court 0
+502 89 631 105 605 318 473 302 basketball-court 0
+290 86 387 99 362 301 265 290 tennis-court 0
+165 74 262 85 237 283 139 274 tennis-court 0

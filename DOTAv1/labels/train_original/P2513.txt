@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.992966205131
+1273 683 1304 683 1304 715 1273 715 roundabout 0

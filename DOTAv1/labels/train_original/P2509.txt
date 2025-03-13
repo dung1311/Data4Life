@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.945690926892
+347 1234 393 1234 393 1285 347 1285 roundabout 0

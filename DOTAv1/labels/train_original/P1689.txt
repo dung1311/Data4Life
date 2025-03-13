@@ -1,0 +1,3 @@
+imagesource:JL
+gsd:0.72
+2506 1904 2550 1904 2550 1948 2506 1948 roundabout 0

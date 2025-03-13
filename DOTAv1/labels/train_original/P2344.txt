@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.279847761417
+1430 1467 1460 1454 1700 1860 1667 1880 bridge 0

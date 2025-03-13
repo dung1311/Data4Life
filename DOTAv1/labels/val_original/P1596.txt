@@ -1,0 +1,5 @@
+imagesource:JL
+gsd:0.72
+518 1825 620 1910 572 1970 471 1884 soccer-ball-field 0
+160 2863 190 2863 190 2896 160 2896 storage-tank 0
+502 1795 651 1924 587 1998 438 1864 ground-track-field 0

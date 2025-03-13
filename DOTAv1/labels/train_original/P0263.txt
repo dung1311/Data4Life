@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.275750561232
+452 179 542 237 160 806 62 736 ship 0

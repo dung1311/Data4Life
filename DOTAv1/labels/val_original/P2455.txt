@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.480025550346
+1088 364 1177 364 1177 450 1088 450 roundabout 0

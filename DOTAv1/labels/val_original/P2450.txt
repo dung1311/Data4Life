@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.894439581095
+981 584 1023 584 1023 630 981 630 roundabout 0

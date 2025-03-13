@@ -1,0 +1,9 @@
+imagesource:GoogleEarth
+gsd:1.08054322228
+191 47 365 50 362 124 189 120 ground-track-field 0
+187 169 187 200 156 200 155 167 baseball-diamond 0
+99 3 145 3 146 46 98 46 baseball-diamond 0
+225 62 328 64 327 109 225 106 soccer-ball-field 0
+184 338 150 338 151 304 183 305 baseball-diamond 0
+26 324 27 285 64 284 65 325 baseball-diamond 0
+19 163 53 162 53 195 19 196 baseball-diamond 0

@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.932776718189
+413 1431 477 1412 508 1509 442 1530 soccer-ball-field 0
+248 1486 323 1466 356 1583 281 1601 soccer-ball-field 1
+232 1455 322 1426 373 1607 281 1632 ground-track-field 0

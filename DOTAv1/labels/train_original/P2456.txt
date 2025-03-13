@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.495132850872
+1190 2383 1248 2378 1253 2463 1198 2470 tennis-court 1

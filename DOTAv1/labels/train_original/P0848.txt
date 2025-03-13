@@ -1,0 +1,9 @@
+imagesource:GoogleEarth
+gsd:0.13042853105
+520 526 616 479 693 639 597 685 basketball-court 0
+415 577 510 530 585 690 490 735 basketball-court 0
+308 626 405 580 481 741 384 787 basketball-court 0
+439 359 535 311 612 470 515 516 basketball-court 0
+334 408 429 362 505 521 410 568 basketball-court 0
+228 458 324 413 401 571 304 619 basketball-court 0
+151 299 244 253 312 394 221 438 basketball-court 0

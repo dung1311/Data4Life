@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:0.136087657051
+809 237 936 240 936 356 807 352 basketball-court 1
+723 152 717 419 467 406 480 139 baseball-diamond 0

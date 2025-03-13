@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:1.00997240702
+741 1453 901 1414 923 1495 760 1542 ground-track-field 0
+196 400 276 400 276 463 196 463 roundabout 0

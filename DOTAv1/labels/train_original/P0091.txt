@@ -1,0 +1,3 @@
+imagesource:GoogleEarth
+gsd:0.136071561359
+157 998 169 746 409 758 395 1008 baseball-diamond 0

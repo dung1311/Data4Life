@@ -1,0 +1,5 @@
+imagesource:GoogleEarth
+gsd:0.27792854592
+575 467 640 467 642 545 575 546 basketball-court 0
+574 385 637 382 638 460 576 463 basketball-court 0
+557 772 556 540 801 533 802 774 baseball-diamond 0

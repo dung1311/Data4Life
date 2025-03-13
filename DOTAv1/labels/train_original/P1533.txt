@@ -1,0 +1,4 @@
+imagesource:JL
+gsd:0.72
+2342 3260 2333 3219 2373 3216 2380 3252 baseball-diamond 0
+2317 3545 2331 3585 2291 3596 2279 3551 baseball-diamond 0

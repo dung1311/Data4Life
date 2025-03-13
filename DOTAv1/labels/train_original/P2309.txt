@@ -1,0 +1,4 @@
+imagesource:GoogleEarth
+gsd:1.08361350546
+251 1 261 2 500 542 490 542 bridge 0
+362 261 358 252 401 229 406 239 ship 0
